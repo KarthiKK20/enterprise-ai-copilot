@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Database
+enterprise.db
+
+# FAISS index files (if generated)
+*.faiss
+*.pkl
